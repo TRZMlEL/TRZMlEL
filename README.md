@@ -1,4 +1,8 @@
-### Hi there 👋
+![pobrany plik](https://github.com/TRZMlEL/TRZMlEL/assets/125200805/4b92673a-f35a-47f4-bcc6-c6fc8efb1811)
+![pobrany plik (1)](https://github.com/TRZMlEL/TRZMlEL/assets/125200805/dc685f9a-5ccb-4134-af0c-525b95edabdd)
+![pobrany plik (2)](https://github.com/TRZMlEL/TRZMlEL/assets/125200805/5c1fe115-f81a-409e-ac43-ded5975b8e2a)
+
+- 🌱 I’m currently learning JavaScript libraries
 
 <!--
 **TRZMlEL/TRZMlEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
