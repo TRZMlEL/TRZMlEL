@@ -1,4 +1,5 @@
 # 🐝 Trzmiel
+Hi, I've been learning programming for half a year to become a frontend developer, in the meantime, since programming, I also deal with photography.
 ---
 
 ### 🧰 Languages and Tools
