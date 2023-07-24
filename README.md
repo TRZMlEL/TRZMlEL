@@ -1,4 +1,4 @@
-Hi I'am Mateusz Trzmiel
+# 🐝 Trzmiel
 ---
 
 ### 🧰 Languages and Tools
