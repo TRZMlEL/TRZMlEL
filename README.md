@@ -21,3 +21,4 @@ Hi, I've been learning programming for half a year to become a frontend develope
 ### 📊 Stats
 
 ![TRZMIEL's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRZMlEL&show_icons=true&theme=vue-dark)
+![TRZMIEL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRZMlEL&layout=compact&theme=vue-dark)
