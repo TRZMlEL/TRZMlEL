@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="0.9%"></a>, I've been learning programming for half a year to become a frontend developer, in the meantime, since programming, I also deal with photography.
+Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1.4%"></a>, I've been learning programming for half a year to become a frontend developer, in the meantime, since programming, I also deal with photography.
 
 #
 
