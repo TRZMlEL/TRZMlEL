@@ -21,9 +21,6 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <br />
 <br />
 
-
-#
-
 ### 📊 Stats
 
 ![TRZMIEL's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRZMlEL&show_icons=true&theme=vue-dark)
