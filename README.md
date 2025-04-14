@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1.4%">, I've been learning programming to become a frontend developer, in the meantime, since programming, I also deal with photography and film.
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1.4%">, I've been learning programming to become a creative developer, in the meantime, since programming and design, I also deal with photography and film.
 
 #
 
