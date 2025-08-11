@@ -1,4 +1,4 @@
-# 🐝 Mateusz Trzmiel
+# 🐝Trzmiel
 
 **`Creative Developer`**
 
@@ -27,3 +27,4 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ![TRZMIEL's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRZMlEL&show_icons=true&theme=vue-dark)
 ![TRZMIEL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRZMlEL&layout=compact&theme=vue-dark)
+
